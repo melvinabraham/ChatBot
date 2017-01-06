@@ -25,7 +25,7 @@ chatbot1.set_trainer(ChatterBotCorpusTrainer)
 print "Hello,Welcome to chatbot. Type Help for Help. Otherwise you can keep typing"
 # Train based on the english corpus
 
-#chatbot1.train("/home/gautam/Desktop/chatbot/chat-bot-amrita/chatterbot/corpus/data/english/amrita_queries")
+chatbot1.train("/home/melvin/Desktop/projects/chat-bot-amrita/chatterbot/corpus/data/english/amrita_queries")
 chatbot1.train("/home/melvin/Desktop/projects/chat-bot-amrita/chatterbot/corpus/data/english/anokha_queries")
 #chatbot1.train("/home/melvin/Desktop/projects/chat-bot-amrita/chatterbot/corpus/data/english/conversations_corpus")
 while True:

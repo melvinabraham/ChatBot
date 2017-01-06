@@ -1,22 +1,46 @@
 {
     "anokha_queries": [
-        [
-            "What is anokha?",
-            "Anokha is the techfest of amrita",
-            "How many days does it occur?",
-            "It occurs for 3 days."
-        ],
-        [
+  	  [
+        	"What is anokha?",
+        	"Anokha is the techfest of amrita",
+        	"How many days does it occur?",
+        	"It occurs for 3 days."
+    	 ],
+    	 [
         	"Who conducts gaming?",
         	"Gaming is conducted by CSE."
-        ],
-        [
+   	 ],
+    	 [
         	"Who conducts bot-fights?",
         	"That's conducted by ECE."
-        ],
+    	],
 	[
 		"Who is the sponser?",
 		"No one yet."	
+	],
+	[
+		"When is anokha conducted?",
+		"It's conducted on 3rd, 4th, 5th of March."
+	],
+	[
+		"Who is the chief guest?",
+		"Somebody."
+	],
+	[
+		"What are the events in anokha?",
+		"The main events are workshops, fascinating exhibitions & Autoshows, chance to meet the CEO program, distinguished lecture series and spectacular entertainment shows."
+	],
+	[
+		"Do celebs attend anokha?",
+		"Yes they do",
+		"Name a few",
+		"Percussionist, Sivamani; playback singers, Benny Dayal, Karthik and Ranjani-Gayatri"
+	],
+	[
+		"Are they any food stalls?",
+		"Yes there are two food stalls",
+		"Where are the food stalls?",
+		"Near the main block and the IT block."
 	]
     ]
 }

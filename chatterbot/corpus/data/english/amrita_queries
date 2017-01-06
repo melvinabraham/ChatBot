@@ -1,10 +1,54 @@
 {
     "amrita_queries": [
-        [
-            "What is amrita?",
-            "Amrita is a college situated in coimbatore.",
-            "How big is it?",
-            "It is about 500 acres large."
-        ]
+   	[
+       		 "What is amrita?",
+        	"Amrita is a college situated in coimbatore.",
+        	"How big is it?",
+        	"It is about 500 acres large."
+    	],
+	[
+		"Is there an ATM?",
+		"Yes, there are two",
+		"Where are the ATMs?",
+		"One of them is near the main gate and the other is next to the IT block."
+	],
+	[
+		"Who is the chancellor of amrita university?",
+		"The chancellor of the university is Mata Amritanandamayi, also known as Amma or, simply, Mother.",
+		"Who is the vice chancellor?",
+		"Dr. P. Venkat Rangan is the vice chancellor"
+	],
+	[
+		"How many campuses does amrita univ. have?",
+		"Amrita Vishwa Vidyapeetham has five campuses, with headquarters in Ettimadai, Coimbatore, Tamil Nadu. It has four other campuses: the Amritapuri and Kochi campuses in Kerala and the Bengaluru and Mysore campuses in Karnataka."
+	],
+	[
+		"What are the courses offered in amrita university?",
+		"The university offers bachelors, masters, and doctoral degree programs in computer science, engineering, business, biotechnology, nanotechnology, ayurveda, medicine, nursing, pharmacy, dentistry, social work, communication, education, and basic sciences.",
+		"What are the advanced courses that are offered?",
+		"Areas of specialization, such as medical informatics, computational engineering, cyber security, clinical research and oncology, are also offered."
+	],
+	[
+		"Tell me about the history of amrita university",
+		"The two campuses, Amritapuri and Ettimadai, started as computer training centres and evolved into colleges, inaugurated as the Amrita Institute of Technology (AITEC). AITEC, Amritapuri was affiliated to the University of Kerala and AITEC, Ettimadai was affiliated to Bharathiar University. In 2002, the colleges were inaugurated again as Amrita School of Engineering."
+	],
+	[
+		"Name the various departments in amrita school of engg.",
+		"The three Schools of Engineering have Aerospace Engineering, Chemical Engineering, Civil Engineering, Computer Science and Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering, Instrumentation Engineering, Mechanical Engineering."
+	],
+	[
+		"What are the various colleges under amrita university?",
+		"They are Amrita Schools of Engineering, Amrita School of Business, Amrita Schools of Arts and Sciences, Amrita Healthcare Campuses, Amrita School of Pharmacy, Amrita School of Ayurveda, Amrita School of Communication",
+		"What does amrita school of business offer?",
+		"The school offers a residential two-year MBA degree program. In addition, it offers a dual degree program leading to an MS in information technology and MBA in collaboration with State University of New York at Buffalo, for working professionals at the Bangalore campus.Faculty members have B.A.s and B.B.A.s from reputed foreign universities such as University of California, Berkeley, Cornell University, NYU Stern School of Business, University of Texas at Austin, and Kellogg School of Management"
+	],
+	[
+		"How many canteens are there?",
+		"There are 3 canteens.",
+		"Where are the canteens located?",
+		"One is near the main block, one is near amrita school of business and the other near IT block.",
+		"Do they serve non veg?",
+		"No but they serve fresh vegetarian food"
+	]
     ]
 }
